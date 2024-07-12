@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dec9309e9a0914614b9b1bd82020f0a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quienEmite: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - scoreBar: {instanceID: 0}
+  - backgroundPerder: {instanceID: 0}
+  - gameOverLayout: {instanceID: 0}
+  - gameWinnerLayout: {instanceID: 0}
+  - textoPerder: {instanceID: 0}
+  - textoPuntaje: {instanceID: 0}
+  - textoPuntajeGanar: {instanceID: 0}
+  - sonidoPerder: {fileID: 8300000, guid: 56817cc7d52c44459b96d95732a8786e, type: 3}
+  - sonidoGanar: {fileID: 8300000, guid: e91efb3a99bd04498823f2231778657e, type: 3}
+  - ScoreManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
